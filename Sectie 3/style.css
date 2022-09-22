@@ -1,0 +1,96 @@
+body {
+    font-family: Courier;
+    font-size: 12px;
+}
+
+h1, h2 {
+    color: green;
+    }
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;     
+}
+
+h1 {   
+    font-size: 25px;      
+}
+
+
+h2 {
+    font-size: 15px; 
+}
+
+h6 {
+    color: green;
+    font-size: 25px;
+    font-family: Courier;
+}
+
+.main-text {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.author-text {
+    font-size: 22px;
+    float: left;
+    margin-top: -75px;
+    margin-left: 100px;
+}
+
+.author-text2 {
+    font-size: 22px;
+    float: right;
+    margin-top: -75px;
+    margin-right: 100px;
+}
+
+.container {
+    width: 1140px;
+    margin: 20px auto 0 auto;
+}
+
+.tijger-pagina {
+    width: 75%;
+    float: left;
+    padding-left: 0px;
+}
+
+.other-posts {
+    width: 25%;
+    float: right;
+}
+
+.author-box {
+    padding-top: 20px;
+    border-top: 5px solid grey;
+}
+
+.other {
+    margin-bottom:  10px;
+}
+
+.author-box img {
+    height: 100px;
+    width: 150px;
+    border-radius: 150%;
+    float: left; 
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.tijger-pagina img {
+    height: 150px;
+    width: auto;
+}
+
+.Tijger-foto img{
+    height: 200px;
+    width: 250px;
+    float: left; 
+    padding-left: 250px;
+    padding-right: 250px;
+    margin-top: 75px;
+}
