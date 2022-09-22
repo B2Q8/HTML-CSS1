@@ -1,0 +1,108 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    white-space: none;
+    margin-top: 200px;
+  }
+  
+  #yellow {
+    background-color: yellow;
+    height: 130px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  #pYellow {
+    margin-top: 53px;
+  }
+
+  #red {
+    background-color: red;
+    height: 130px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  #pRed {
+    margin-top: 53px;
+  }
+
+  #blue {
+    background-color: blue;
+    height: 130px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  #pBlue {
+    margin-top: 53px;
+  }
+
+  #darkGreen {
+    background-color: darkgreen;
+    height: 130px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  #pDarkGreen {
+    margin-top: 53px;
+  }
+
+  #white {
+    background-color: white;
+    height: 130px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  #pWhite {
+    margin-top: 53px;
+  }
+
+  #purple {
+    background-color: purple;
+    height: 130px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  #pPurple {
+    margin-top: 53px;
+  }
+
+  #gray {
+    background-color: gray;
+    height: 130px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  #pGray {
+    margin-top: 53px;
+  }
+
+  #pink {
+    background-color: pink;
+    height: 130px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  #pPink {
+    margin-top: 53px;
+  }
+
+  #orange {
+    background-color: orange;
+    height: 130px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  #pOrange {
+    margin-top: 53px;
+  }
+
+
+
